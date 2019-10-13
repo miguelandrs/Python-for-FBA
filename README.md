@@ -17,4 +17,17 @@ Second, we need to get Python installed. It's certainly possible to go to https:
 4. Open Anaconda Navigator
 5. Launch Jupyter Lab
 
-At this point you are ready to navigate to the notebooks folder and open Intro to Python part 1.
+At this point you are ready to navigate to the notebooks folder and open `1 Introduction to Python 1 (basics).ipynb`.
+
+Notebooks have 2 modes, command and edit mode. When you open a notebook, you start in command mode. You can quickly navigate cells with arrow keys in command mode, as well as several other keyboard shortcuts such as deleting a cell with `dd`.
+
+In either mode, you can execute the cells that are code with either `shift + enter` (executes and moves cursor to next cell) or `ctrl + enter` (execute and stay on current cell).
+
+Conversely you can click on a code cell and enter edit mode which allows you to update the code like a normal text editor.
+
+More on the Jupyter Lab / notebook interface can be found here:
+
+https://jupyterlab.readthedocs.io/en/latest/user/interface.html
+
+https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface
+
