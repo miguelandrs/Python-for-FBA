@@ -1,7 +1,16 @@
 # CS6460-Project
-Python for Financial Analysts
+Python for Financial and Business Analysts
 
-## Installation
+## Course
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miguelandrs/Python-for-FBA/blob/master)
+
+<!--
+### Section 1: Python Basics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) [](https://github.com/miguelandrs/Python-for-FBA/blob/master/1%20Introduction%20to%20Python%201%20(basics).ipynb)
+### Section 2: Data Analysis
+### Section 3: Finance
+-->
+## Local Installation
 
 First, to get the notebooks you can either clone or download this repository.
 
