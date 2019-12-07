@@ -1,7 +1,5 @@
-# CS6460-Project
-Python for Financial and Business Analysts
+# Python for Financial and Business Analysts
 
-## Course
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miguelandrs/Python-for-FBA/blob/master)
 
 <!--
