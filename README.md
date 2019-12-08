@@ -24,7 +24,7 @@ Second, we need to get Python installed. It's certainly possible to go to https:
 4. Open Anaconda Navigator
 5. Launch Jupyter Lab
 
-At this point you are ready to navigate to the notebooks folder and open `1 Introduction to Python 1 (basics).ipynb`.
+At this point you are ready to navigate to the notebooks folder and open `1 Introduction to Python 1.ipynb`.
 
 Notebooks have 2 modes, command and edit mode. When you open a notebook, you start in command mode. You can quickly navigate cells with arrow keys in command mode, as well as several other keyboard shortcuts such as deleting a cell with `dd`.
 
